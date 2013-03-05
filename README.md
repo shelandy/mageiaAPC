@@ -1,4 +1,4 @@
 mageiaAPC
 =========
 
-port Mageia Linux to VIA APC playform
+port Mageia Linux to VIA APC platform
