@@ -1,12 +1,11 @@
-mageiaAPC
+mageiaBananaPi
+
 =========
 
-port Mageia Linux to VIA APC platform
+port Mageia Linux to BananaPi Pi platform
 
-
-
-currently targeting at the Rock (8950) board
-http://apc.io/products/rock/
+currently targeting at the M1 (Allwonder A20) board
+https://en.wikipedia.org/wiki/Banana_Pi
 
 cf
 https://wiki.mageia.org/en/MageiaOnARM
